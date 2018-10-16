@@ -1,4 +1,7 @@
 +++
+  
+aliases = ["/blog/2016/07/22/MORAclim-intro/"]
+  
 title = "MORAclim Climate Maps"
 
 date = 2016-07-22T00:00:00
@@ -14,16 +17,16 @@ Park"
 
 [header]
 image = "headers/rainier-snowmelt-wide.jpg"
-caption = "Image credit: Tony Webster / Wikimedia Commons"
+caption = ""
 +++
 
 With support from the [Northwest Climate Science Center](https://www.nwclimatescience.org/), [USGS Center for Integrated Data and Analytics](https://cida.usgs.gov), and the [National Park Service](https://www.nps.gov), it’s my pleasure to introduce new gridded climate maps for Mt. Rainier National Park. These products are based on six years of monitoring air temperature and snow duration at hundreds of sites across Mt. Rainier using data from climate stations and low-cost distributed temperature sensors. 
 
 For the first time, MORAclim gives us a detailed picture of how the Mountain’s topography and vegetation interact with the regional climate to produce a diverse set of microclimates. This important baseline information will be used to inform research on how climate shapes Mt. Rainier’s forests, meadows, rivers, and glaciers as well as how climate change will impact these important resources. This post provides an overview of the MORAclim products, how they were developed, and what their appropriate uses and limitations are. 
 
-** Summary products have been released in draft form, and can be downloaded [here](https://ibreckhe.github.io/images/MORAclim_all_summaries_v0.9.zip).** 
+** Summary products have been released in draft form, and can be downloaded [here](http://tinyplant.org/files/MORAclim_all_summaries_v0.9.zip).** 
 
-** Maps of selected products can be explored [here](http://ibreckhe.github.io/MORAclim_maps).**
+** Maps of selected products can be explored [here](http://tinyplant.org/pages/MORAclim_maps/).**
 
 <img src='/img/MORAclim_logo.png' alt='MORAclim' width=700>
 
