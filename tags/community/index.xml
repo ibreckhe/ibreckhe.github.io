@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</title>
+    <link>https://tinyplant.org/tags/community/</link>
+    <description>Recent content in Community on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://tinyplant.org/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mapping Microclimates</title>
+      <link>https://tinyplant.org/project/microclimate-mapping/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/microclimate-mapping/</guid>
+      <description>Fine-scale patterns in climate drive huge changes in the composition and function of ecosystems, but are poorly represented in models that we use to anticipate climate change impacts. I&amp;rsquo;m using measurements from a large network of microclimate sensors, remote-sensing, and weather station data to explore how different aspects of climate vary across the steep topographic gradients of Mt. Rainier National Park. Myself and my collaborators Janneke Hille Ris Lambers and Jessica Lundquist want to understand which parts of the landscape are the least strongly coupled to the regional climate system.</description>
+    </item>
+    
+    <item>
+      <title>Phenological Reassembly</title>
+      <link>https://tinyplant.org/project/pheno-reassembly/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/pheno-reassembly/</guid>
+      <description>Climate change is altering ecological communities by changing species distributions and abundances. This &amp;ldquo;community reassembly&amp;rdquo; has profound consequences for species interactions and ecosystem function. Communities can also reassemble in time if their seasonal periods of activity respond differently to climate cues. We developed this concept, called &amp;ldquo;phenological reassembly&amp;rdquo; by examining how co-flowering relationships changed in a diverse perennial plant community in Mt. Rainier National Park.
+This project resulted in a paper published in Ecology in 2017.</description>
+    </item>
+    
+    <item>
+      <title>Ranges and Disturbance</title>
+      <link>https://tinyplant.org/project/range-disturbance/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/range-disturbance/</guid>
+      <description>Long-term studies which measure changes in species distributions with climate change have revealed a surprising diversity of responses. Although a majority of species distributions are tracking climates shifting upslope and higher in latitude, the ranges of many species have failed to closely track climate, and range limits of some species have moved downhill or south, counter to the expected direction. The dominant factors driving these “counter-gradient” range shifts are unclear, but many have suggested that they reflect the imprint of ecological interactions, novel physiological responses, or past biogeographical events in defining contemporary range limits.</description>
+    </item>
+    
+    <item>
+      <title>Social-ecological Mismatch</title>
+      <link>https://tinyplant.org/project/visitor-phenology/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/visitor-phenology/</guid>
+      <description>As climate change accelerates, it is critical for scientists and policymakers to understand how climate influences the links between ecosystems and their social context. Surprisingly, despite increased attention to coupled analyses of social-ecological systems, there have been few studies that simultaneously measure how changes in climate drive changes in the temporal distribution of natural resources and the people that use those resources.
+We measured how climate influences the spatial and temporal match between human visitors and seasonal displays of subalpine wildflowers at Mt.</description>
+    </item>
+    
+  </channel>
+</rss>

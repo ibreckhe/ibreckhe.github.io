@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methods on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</title>
+    <link>https://tinyplant.org/tags/methods/</link>
+    <description>Recent content in Methods on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://tinyplant.org/tags/methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mapping Microclimates</title>
+      <link>https://tinyplant.org/project/microclimate-mapping/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/microclimate-mapping/</guid>
+      <description>Fine-scale patterns in climate drive huge changes in the composition and function of ecosystems, but are poorly represented in models that we use to anticipate climate change impacts. I&amp;rsquo;m using measurements from a large network of microclimate sensors, remote-sensing, and weather station data to explore how different aspects of climate vary across the steep topographic gradients of Mt. Rainier National Park. Myself and my collaborators Janneke Hille Ris Lambers and Jessica Lundquist want to understand which parts of the landscape are the least strongly coupled to the regional climate system.</description>
+    </item>
+    
+  </channel>
+</rss>

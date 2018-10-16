@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</title>
+    <link>https://tinyplant.org/</link>
+    <description>Recent content in TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Herbarium Phenology</title>
+      <link>https://tinyplant.org/project/herbarium-pheno/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/herbarium-pheno/</guid>
+      <description>&lt;p&gt;Millions of herbarium specimens collected over the past two centuries provide unique insights into continental-scale patterns of plant diversity. With my colleagues Daniel Park, Aaron Ellison, and Charles Davis at Harvard University, we have developed an approach to crowd-source reproductive phenology data collection from digitized specimens. Our initial work resulted in recording buds, flowers, and fruits from ~10,000 specimens of 30 plant species. We have used the data to estimate continental-scale patterns of plant reproductive phenology, revealing a surprising amount of variation in plant responses to climate across regions.&lt;/p&gt;
+
+&lt;p&gt;A paper describing this work is currently in press at ProcB.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://tinyplant.org/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drone Workshop 2018</title>
+      <link>https://tinyplant.org/post/2018-08-01-drone-workshop/</link>
+      <pubDate>Fri, 01 Jun 2018 10:23:27 -0800</pubDate>
+      
+      <guid>https://tinyplant.org/post/2018-08-01-drone-workshop/</guid>
+      <description>
+
+&lt;p&gt;In June I led a half-day workshop on using drone imagery in field research at &lt;a href=&#34;http://www.rmbl.org/&#34; target=&#34;_blank&#34;&gt;Rocky Mountain Biological Laboratory&lt;/a&gt;. The workshop was a ton of fun (I miss teaching!), and I decided to share the workshop materials here.&lt;/p&gt;
+
+&lt;h2 id=&#34;preparation&#34;&gt;Preparation&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what you need to take full advantage of the workshop materials:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A computer:&lt;/em&gt; A big part of the workshop is focused on transforming the imagery we get from drones into scientifically valid data, so you will need to bring a computer with you when you come so you can participate in the hands-on steps of the processing. A Windows, Mac, or Linux computer with ~1GB free storage space is fine.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Some software:&lt;/em&gt; You will need to install a few pieces of software for the interactive elements:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Agisoft Photoscan Professional. We will use this to process the drone imagery into maps and 3d models. This program is not free, but you can use the free &amp;ldquo;demo mode” for all of the steps that we will take in the workshop. There is also a free 30-day trial option.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;QGIS, a free and open-source mapping/GIS program. We will use this to view and explore the maps we made with Photoscan. If you already have another GIS program like ArcGIS installed, that will work fine too.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Sample data:&lt;/em&gt; To follow along with the interactive sections, you will need to download files useful for flight planning as well as some sample imagery:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1qjOCgNyQwAmffQ3zDQwJ_RT7NGUzFZ6S/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Flight Planning Files&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/open?id=1PdC8oScoS9S5h1aXruN__H6WxoCkP6o0&#34; target=&#34;_blank&#34;&gt;Full Resolution Imagery&lt;/a&gt; (For Fast Computers)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/open?id=1P7Ysw6fhwaNGODMpiGTaP42PaOU5SVKf&#34; target=&#34;_blank&#34;&gt;Reduced Resolution Imagery&lt;/a&gt; (For Slower Computers)&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;workshop-slides&#34;&gt;Workshop slides&lt;/h2&gt;
+
+&lt;p&gt;Here are the slides I used for the presentation. Advance the slides using the arrow keys, and you can switch to fullscreen view by pressing &amp;lsquo;f&amp;rsquo;.&lt;/p&gt;
+
+&lt;iframe src=&#34;https://tinyplant.org/pages/RMBL_Drone_Workshop_2018.html&#34; width=800 height=600 frameborder=0&gt;&lt;/iframe&gt;
+ 
+</description>
+    </item>
+    
+    <item>
+      <title>Ecology by Drone</title>
+      <link>https://tinyplant.org/post/2018-06-01-drone-ecology/</link>
+      <pubDate>Fri, 01 Jun 2018 10:23:27 -0800</pubDate>
+      
+      <guid>https://tinyplant.org/post/2018-06-01-drone-ecology/</guid>
+      <description>
+
+&lt;p&gt;This summer I&amp;rsquo;m starting a new project that aims to measure flowering phenology in a new and exciting way: extracting flower counts using deep learning from high-resolution aerial imagery collected with a small UAV. This has brought me to &lt;a href=&#34;http://www.rmbl.org/&#34; target=&#34;_blank&#34;&gt;Rocky Mountain Biological Laboratory&lt;/a&gt; in Gothic Colorado, which is home to one of North America&amp;rsquo;s longest-running phenology monitoring programs.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-inspiration&#34;&gt;The inspiration&lt;/h2&gt;
+
+&lt;p&gt;This project has been bouncing around in my head for a while: how can we see and understand the landscape like a pollinator does? The main obstacle is a mismatch between the spatial scales of the processes that we are interested in (pollinator foraging over large landscapes), and the data that we can actually collect (floral abundance and pollinator visitation in tiny plots or transects). If we could develop a way to monitor the timing and abundance of flowering efficiently over large extents, though, we might be able to piece together how the landscapes of floral resources for pollinators change over the course of the season, or even how longer-term trends like climate change are likely to alter these spatial patterns.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-barriers&#34;&gt;The barriers&lt;/h2&gt;
+
+&lt;p&gt;Before the development of modern quadcopter drones with high-resolution cameras, it wasn&amp;rsquo;t feasible to collect imagery data at a high enough resolution to see individual flowers at a large enough extent to say anything about landscape patterns. Essentially flowers are extremely small (2mm - 5cm), and the landscape is extremely large. Even with a 12 megapixel camera (standard on consumer drones until recently) we would have to fly extremely slowly at 5m above the ground to capture imagery with high enough ground resolution (3mm) to see most flowers. Luckily, over the past few years the technology has finally matured enough to make this more feasible: A drone with a 20 megapixel camera can fly at 10m and still capture 3mm imagery mosaics. Flight times of up to 30 minutes gives each flight a survey area of about 1 hectare.&lt;/p&gt;
+
+&lt;p&gt;Even with good imagery, counting flowers by hand wouldn&amp;rsquo;t be feasible over large areas because there can be many tens of thousands of flowers in a hectare of meadow. This is where machine learning comes in. Flowers (or inflorescences) are discrete, compact  objects with contrasting colors againsta soil or vegetation background. These objects are great candidates for being accurately counted using new computer vision tools called convolutional neural networks. I plan to use frameworks developed by &lt;a href=&#34;https://www.planet.com&#34; target=&#34;_blank&#34;&gt;Planet Labs&lt;/a&gt; and others to automate this classification task.&lt;/p&gt;
+
+&lt;h2 id=&#34;ground-truthing&#34;&gt;Ground-truthing&lt;/h2&gt;
+
+&lt;p&gt;Drones provide a great top-down view of ecosystems, but they can&amp;rsquo;t see through dense vegetation. How well can photo-based counts of flowers align with more traditional plot-based data? This is what has brought me to Colorado, where researchers have been collecting field data on wilflower phenology in a network of 30 plots since 1973! I&amp;rsquo;m coordinating with the project field lead Jane Ogilvie to make sure my drone imagery lines up with the timing of their field surveys. How well can we do? Time will tell.&lt;/p&gt;
+
+&lt;h2 id=&#34;wish-me-luck&#34;&gt;Wish me luck!&lt;/h2&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://tinyplant.org/img/drone-ir-selfie.gif&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;False color images from the IR camera that I use to measure plant greenness.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BloomFinder</title>
+      <link>https://tinyplant.org/project/bloomfinder/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/bloomfinder/</guid>
+      <description>&lt;p&gt;For decades, scientists have used the seasonal timing of events like flowering to track the impacts of climate change. As these impacts accelerate, it’s becoming more and more important to understand where changes in climate are having the most severe impacts on ecosystems. Tracking flowering can help us understand how climate change is altering the risks of extreme climate events like growing season frost and drought.&lt;/p&gt;
+
+&lt;p&gt;In the past few years, new machine-learning approaches (“deep learning”) have finally made it possible to trawl the web for observations of specific species in specific places. This is a new type of observing system that is sometimes called a “&lt;a href=&#34;https://www.wordnik.com/words/macroscope&#34; target=&#34;_blank&#34;&gt;macroscope&lt;/a&gt;” because it allows us to see patterns at extremely large scales, patterns that would otherwise be invisible. Over the next two years, we will be developing this system and using it to track bloom timing across mountain ecosystems in the western USA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landscapes of Flowering</title>
+      <link>https://tinyplant.org/project/flower-landscapes/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/flower-landscapes/</guid>
+      <description>&lt;p&gt;Species interactions, like the critical links between plants and their animal pollinators, play out over space and through time. Despite their inherently spatial nature, much of the scientific work on these links, and how environmental changes like climate change might affect them, treats the landscape as homogeneous. We are currently working on two projects that try to understand how plant flowering is distributed across landscapes. With my collaborator &lt;a href=&#34;https://sites.google.com/site/ellijtheobald/home&#34; target=&#34;_blank&#34;&gt;Elli Theobald&lt;/a&gt;, we are reconstructing the landscapes of flowering for subalpine meadows in Mt. Rainier National Park, using data from low snowpack &amp;ldquo;snow drought&amp;rdquo; years to help us understand the impacts of climate change on flowering synchrony and pollen dispersal.&lt;/p&gt;
+
+&lt;p&gt;In 2018 we started using drones to collect ultra-high resolution aerial imagery of meadows near &lt;a href=&#34;https://www.rmbl.org&#34; target=&#34;_blank&#34;&gt;Rocky Mountain Biological Laboratory&lt;/a&gt; in southwestern Colorado. We are currently training a machine learning system to automatically identify and count these flowers in imagery data. We will combine these counts with information about the nectar and pollen resources that each flower provides to reconstruct the landscape of floral resources for pollinators at the same sites where &lt;a href=&#34;https://irwinlab.weebly.com/&#34; target=&#34;_blank&#34;&gt;Becky Irwin&amp;rsquo;s lab&lt;/a&gt; at NC State University monitors populations of bumblebees and other pollinators.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapping Microclimates</title>
+      <link>https://tinyplant.org/project/microclimate-mapping/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/microclimate-mapping/</guid>
+      <description>&lt;p&gt;Fine-scale patterns in climate drive huge changes in the composition and function of ecosystems, but are poorly represented in models that we use to anticipate climate change impacts. I&amp;rsquo;m using measurements from a large network of microclimate sensors, remote-sensing, and weather station data to explore how different aspects of climate vary across the steep topographic gradients of Mt. Rainier National Park. Myself and my collaborators &lt;a href=&#34;https://faculty.washington.edu/jhrl/Index.html&#34; target=&#34;_blank&#34;&gt;Janneke Hille Ris Lambers&lt;/a&gt; and &lt;a href=&#34;https://depts.washington.edu/mtnhydr/&#34; target=&#34;_blank&#34;&gt;Jessica Lundquist&lt;/a&gt; want to understand which parts of the landscape are the least strongly coupled to the regional climate system. These sites are potential microclimate &amp;ldquo;refugia&amp;rdquo; that could help species adapt to a changing climate.&lt;/p&gt;
+
+&lt;p&gt;Some of our preliminary data products are available through the &lt;a href=&#34;http://tinyplant.org/blog/2016/07/22/MORAclim-intro/&#34; target=&#34;_blank&#34;&gt;MORAClim&lt;/a&gt; project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phenological Reassembly</title>
+      <link>https://tinyplant.org/project/pheno-reassembly/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/pheno-reassembly/</guid>
+      <description>&lt;p&gt;Climate change is altering ecological communities by changing species distributions and abundances. This &amp;ldquo;community reassembly&amp;rdquo; has profound consequences for species interactions and ecosystem function. Communities can also reassemble in time if their seasonal periods of activity respond differently to climate cues. We developed this concept, called &amp;ldquo;phenological reassembly&amp;rdquo; by examining how co-flowering relationships changed in a diverse perennial plant community in Mt. Rainier National Park.&lt;/p&gt;
+
+&lt;p&gt;This project resulted in a &lt;a href=&#34;https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.1996&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; published in Ecology in 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ranges and Disturbance</title>
+      <link>https://tinyplant.org/project/range-disturbance/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/range-disturbance/</guid>
+      <description>&lt;p&gt;Long-term studies which measure changes in species distributions with climate change have revealed a surprising diversity of responses. Although a majority of species distributions are tracking climates shifting upslope and higher in latitude, the ranges of many species have failed to closely track climate, and range limits of some species have moved downhill or south, counter to the expected direction. The dominant factors driving these “counter-gradient” range shifts are unclear, but many have suggested that they reflect the imprint of ecological interactions, novel physiological responses, or past biogeographical events in defining contemporary range limits. Here we suggest that climate’s influence on disturbance regimes and metapopulation dynamics — broad scale patterns of colonization and persistence across networks of habitat patches — play an under-appreciated role in determining the response of species ranges to climate change, and may explain some of the diversity of climate-driven range-shifts observed in nature.&lt;/p&gt;
+
+&lt;p&gt;To make this case, we marshaled evidence from a field study of two ecologically similar riparian plant species (common yellow monkeyflower, Erythranthe guttata, and mountain monkeyflower, E. caespitosa) in Mt. Rainier National Park, WA, USA. We combined detailed demographic data collected from individuals growing in experimental populations across the range limits of both species with four years of comprehensive census data from wild populations. We then used this data to parameterize a spatial population model that incorporates the effects of climate and other habitat attributes on local demographic performance, as well as on colonization and local extinction processes. Simulating range dynamics at Mt. Rainier under a variety of climate change and disturbance scenarios, we found that both the magnitude and direction of predicted elevation range shifts differed dramatically between species and were extremely sensitive to changes in the disturbance regime. Increases in flood disturbance, predicted in the region by the late 21st century, caused the upper range limit of E. guttata, the low-elevation species, to move up in elevation twice as far as in a scenario assuming no change to the disturbance regime. Under current levels of flood disturbance, or if disturbance becomes less frequent, models projected downhill shifts in the low-elevation limit of E. caespitosa in scenarios assuming considerable warming. Overall, simulated range shifts were considerably more sensitive to climate impacts on colonization and disturbance processes than impacts on local demography for both species, indicating that neglecting these important processes might lead to misleading predictions about range shifts in response to changes in climate. Our results highlight the importance of interactions between climate, local demography, disturbance, and colonization processes in determining the response of species ranges to environmental change. We suspect that these interactions are important in many systems where populations are patchy near range limits, and that understanding their role will bolster efforts to forecast the impacts of climate change on species distributions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social-ecological Mismatch</title>
+      <link>https://tinyplant.org/project/visitor-phenology/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/project/visitor-phenology/</guid>
+      <description>&lt;p&gt;As climate change accelerates, it is critical for scientists and policymakers to understand how climate influences the links between ecosystems and their social context. Surprisingly, despite increased attention to coupled analyses of social-ecological systems, there have been few studies that simultaneously measure how changes in climate drive changes in the temporal distribution of natural resources and the people that use those resources.&lt;/p&gt;
+
+&lt;p&gt;We measured how climate influences the spatial and temporal match between human visitors and seasonal displays of subalpine wildflowers at Mt. Rainier National Park, where wildflower blooms are a key visitor draw. We use a large, field-validated dataset derived from the Flickr photo sharing service and volunteer citizen scientists to show that the phenological match between these ecological and social systems is sensitive to the date that seasonal snowpack disappears.&lt;/p&gt;
+
+&lt;p&gt;Early snow melts, comparable to conditions predicted in the late 21st century, cause reduced temporal overlap between wildflowers and park visitors (by 17.4 to 48.9 %). In-line with ecological and social theory, we expect social-ecological mismatches in phenology to be common in systems where users of natural resources (i.e. park visitors) have imperfect information about climatic drivers of their resource, and where seasonal shifts in their behavior is constrained by non-climatic factors. Recent dramatic growth in the volume of georeferenced citizen observations coupled with recent advances in machine learning, will soon make it feasible to test these hypotheses at very large spatial scales.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The spatial scaling of flowering phenology: How much could landscape heterogeneity buffer mountain meadow plants and pollinators from phenological mismatch?</title>
+      <link>https://tinyplant.org/talk/mtnclim-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://tinyplant.org/talk/mtnclim-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Launching the BloomFinder Project</title>
+      <link>https://tinyplant.org/post/2017-12-01-bloomfinder/</link>
+      <pubDate>Tue, 12 Dec 2017 10:23:27 -0800</pubDate>
+      
+      <guid>https://tinyplant.org/post/2017-12-01-bloomfinder/</guid>
+      <description>
+
+&lt;p&gt;Today I&amp;rsquo;m excited to officially launch &lt;a href=&#34;https://bloomfinder.org&#34; target=&#34;_blank&#34;&gt;BloomFinder&lt;/a&gt;, a new citizen-science project aimed at tracking the blooms of wildflowers using photographs on social media platforms like Flickr and Instagram.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-bloomfinder&#34;&gt;Why BloomFinder?&lt;/h2&gt;
+
+&lt;p&gt;For decades, scientists have used the seasonal timing of events like flowering to track the impacts of climate change. As these impacts accelerate, it&amp;rsquo;s becoming more and more important to understand where changes in climate are having the most severe impacts on ecosystems. Tracking flowering can help us understand how climate change is altering the risks of extreme climate events like growing season frost and drought.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-are-we-doing-this&#34;&gt;How are we doing this?&lt;/h2&gt;
+
+&lt;p&gt;In the past few years, new machine-learning approaches (&amp;ldquo;deep learning&amp;rdquo;) have finally made it possible to trawl the web for observations of specific species in specific places. This is a new type of observing system that is sometimes called a &amp;ldquo;macroscope&amp;rdquo; because it allows us to see patterns at extremely large scales, patterns that would otherwise be invisible. Over the next two years, we will be developing this system and using it to track bloom timing across mountain ecosystems in the western USA.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-else-is-cool-about-bloomfinder&#34;&gt;What else is cool about BloomFinder?&lt;/h2&gt;
+
+&lt;p&gt;In addition to advancing our scientific understanding, BloomFinder will also generate some great information for wildflower buffs that just want to catch ecosystems in peak bloom. In the course of the project, we will be creating detailed maps of the abundance of our focal species, and will eventually be able to post real-time forecasts of bloom timing.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-can-i-help&#34;&gt;How can I help?&lt;/h2&gt;
+
+&lt;p&gt;In early 2018, we will start recruiting a small army of volunteers to help us train computers to recognize wildflowers. We are still working out the details here, but we will likely use the &lt;a href=&#34;https://www.zooniverse.org/&#34; target=&#34;_blank&#34;&gt;Zooniverse&lt;/a&gt; platform, which makes it easy and fun to classify photographs. If you&amp;rsquo;d rather donate your money than your time, we would love to get contributions via our project page on &lt;a href=&#34;https://experiment.com/&#34; target=&#34;_blank&#34;&gt;experiment.com&lt;/a&gt;. Regardless, you can help spread the word about BloomFinder by liking our page on &lt;a href=&#34;https://www.facebook.com/BloomFinder&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt; and following us on &lt;a href=&#34;https://twitter.com/BloomFinder&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ian has moved to Harvard OEB</title>
+      <link>https://tinyplant.org/post/2017-10-01-harvard/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/post/2017-10-01-harvard/</guid>
+      <description>&lt;p&gt;As of November 2017, I&amp;rsquo;ll be officially starting my new NSF-supported postdoctoral fellowship in the &lt;a href=&#34;https://oeb.harvard.edu/&#34; target=&#34;_blank&#34;&gt;Department of Organismic and Evolutionary Biology &lt;/a&gt; at Harvard University. I&amp;rsquo;ll be based out of &lt;a href=&#34;https://huh.harvard.edu/&#34; target=&#34;_blank&#34;&gt;Harvard University Herbaria&lt;/a&gt;, where I&amp;rsquo;ll be associated with the lab of &lt;a href=&#34;https://davislab.oeb.harvard.edu/&#34; target=&#34;_blank&#34;&gt;Charles C. Davis&lt;/a&gt;. I&amp;rsquo;ve been in the lab unofficially for almost a year, but it&amp;rsquo;s nice to finally be official!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate drives phenological reassembly of a mountain wildflower meadow community</title>
+      <link>https://tinyplant.org/publication/rainier-pheno-reassembly/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/publication/rainier-pheno-reassembly/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An evaluation of terrain‐based downscaling of fractional snow covered area data sets based on LiDAR‐derived snow data and orthoimagery</title>
+      <link>https://tinyplant.org/publication/snow-downscaling/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/publication/snow-downscaling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

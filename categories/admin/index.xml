@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</title>
+    <link>https://tinyplant.org/categories/admin/</link>
+    <description>Recent content in Admin on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 12 Dec 2017 10:23:27 -0800</lastBuildDate>
+    
+	<atom:link href="https://tinyplant.org/categories/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Launching the BloomFinder Project</title>
+      <link>https://tinyplant.org/post/2017-12-01-bloomfinder/</link>
+      <pubDate>Tue, 12 Dec 2017 10:23:27 -0800</pubDate>
+      
+      <guid>https://tinyplant.org/post/2017-12-01-bloomfinder/</guid>
+      <description>Today I&amp;rsquo;m excited to officially launch BloomFinder, a new citizen-science project aimed at tracking the blooms of wildflowers using photographs on social media platforms like Flickr and Instagram.
+Why BloomFinder? For decades, scientists have used the seasonal timing of events like flowering to track the impacts of climate change. As these impacts accelerate, it&amp;rsquo;s becoming more and more important to understand where changes in climate are having the most severe impacts on ecosystems.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</title>
+    <link>https://tinyplant.org/post/</link>
+    <description>Recent content in Posts on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://tinyplant.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drone Workshop 2018</title>
+      <link>https://tinyplant.org/post/2018-08-01-drone-workshop/</link>
+      <pubDate>Fri, 01 Jun 2018 10:23:27 -0800</pubDate>
+      
+      <guid>https://tinyplant.org/post/2018-08-01-drone-workshop/</guid>
+      <description>In June I led a half-day workshop on using drone imagery in field research at Rocky Mountain Biological Laboratory. The workshop was a ton of fun (I miss teaching!), and I decided to share the workshop materials here.
+Preparation Here&amp;rsquo;s what you need to take full advantage of the workshop materials:
+A computer: A big part of the workshop is focused on transforming the imagery we get from drones into scientifically valid data, so you will need to bring a computer with you when you come so you can participate in the hands-on steps of the processing.</description>
+    </item>
+    
+    <item>
+      <title>Ecology by Drone</title>
+      <link>https://tinyplant.org/post/2018-06-01-drone-ecology/</link>
+      <pubDate>Fri, 01 Jun 2018 10:23:27 -0800</pubDate>
+      
+      <guid>https://tinyplant.org/post/2018-06-01-drone-ecology/</guid>
+      <description>This summer I&amp;rsquo;m starting a new project that aims to measure flowering phenology in a new and exciting way: extracting flower counts using deep learning from high-resolution aerial imagery collected with a small UAV. This has brought me to Rocky Mountain Biological Laboratory in Gothic Colorado, which is home to one of North America&amp;rsquo;s longest-running phenology monitoring programs.
+The inspiration This project has been bouncing around in my head for a while: how can we see and understand the landscape like a pollinator does?</description>
+    </item>
+    
+    <item>
+      <title>Launching the BloomFinder Project</title>
+      <link>https://tinyplant.org/post/2017-12-01-bloomfinder/</link>
+      <pubDate>Tue, 12 Dec 2017 10:23:27 -0800</pubDate>
+      
+      <guid>https://tinyplant.org/post/2017-12-01-bloomfinder/</guid>
+      <description>Today I&amp;rsquo;m excited to officially launch BloomFinder, a new citizen-science project aimed at tracking the blooms of wildflowers using photographs on social media platforms like Flickr and Instagram.
+Why BloomFinder? For decades, scientists have used the seasonal timing of events like flowering to track the impacts of climate change. As these impacts accelerate, it&amp;rsquo;s becoming more and more important to understand where changes in climate are having the most severe impacts on ecosystems.</description>
+    </item>
+    
+    <item>
+      <title>Ian has moved to Harvard OEB</title>
+      <link>https://tinyplant.org/post/2017-10-01-harvard/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/post/2017-10-01-harvard/</guid>
+      <description>As of November 2017, I&amp;rsquo;ll be officially starting my new NSF-supported postdoctoral fellowship in the Department of Organismic and Evolutionary Biology  at Harvard University. I&amp;rsquo;ll be based out of Harvard University Herbaria, where I&amp;rsquo;ll be associated with the lab of Charles C. Davis. I&amp;rsquo;ve been in the lab unofficially for almost a year, but it&amp;rsquo;s nice to finally be official!</description>
+    </item>
+    
+    <item>
+      <title>2017 MORA Snow Melt Forecasts</title>
+      <link>https://tinyplant.org/post/2017-06-01-snowmelt-forecasts/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/post/2017-06-01-snowmelt-forecasts/</guid>
+      <description>I&amp;rsquo;ve updated my seasonal snow melt forecasts for Mt. Rainier National Park to reflect the latest snow conditions in 2017. I&amp;rsquo;ll update these maps approximately every two weeks through the early summer.
+The link to the most up-to-date forecast map is here. If you zoom in on the map enough, you should see overlayed data for roads and trails!
+As of June 21st, 2017, I&amp;rsquo;m making the following projections for snow melt timing for key parts of Mt.</description>
+    </item>
+    
+    <item>
+      <title>MORAclim Climate Maps</title>
+      <link>https://tinyplant.org/post/2016-07-21-moraclim-intro/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/post/2016-07-21-moraclim-intro/</guid>
+      <description>With support from the Northwest Climate Science Center, USGS Center for Integrated Data and Analytics, and the National Park Service, it’s my pleasure to introduce new gridded climate maps for Mt. Rainier National Park. These products are based on six years of monitoring air temperature and snow duration at hundreds of sites across Mt. Rainier using data from climate stations and low-cost distributed temperature sensors.
+For the first time, MORAclim gives us a detailed picture of how the Mountain’s topography and vegetation interact with the regional climate to produce a diverse set of microclimates.</description>
+    </item>
+    
+    <item>
+      <title>100 Years of Change at Mt. Rainier</title>
+      <link>https://tinyplant.org/post/2015-03-17-mora-rephoto/</link>
+      <pubDate>Tue, 17 Mar 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/post/2015-03-17-mora-rephoto/</guid>
+      <description>I&amp;rsquo;ve always been fascinated by old photographs, so last year when I found an old panoramic photo of Mt. Rainier in Pat Pringle&amp;rsquo;s excellent Roadside Geology of Mount Rainier National Park and Vicinity I got really excited. The photo was taken in 1904 by W.P. Romans, and shows the northwest slopes of the mountain in the vicinity of Spray Park. The original is maintained by the Washington State Historical Society</description>
+    </item>
+    
+  </channel>
+</rss>
