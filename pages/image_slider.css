@@ -1,0 +1,87 @@
+/**
+ * Image slider with pure CSS
+ * Original version in http://demosthenes.info/blog/css
+ */
+ 
+  .title{
+  	max-width:800px;
+}
+
+  .title-text{
+    z-index:100;
+    text-align:center;    
+    color:black;
+    font-size:24px;
+    font-weight:bold;
+    white-space: nowrap;
+}
+
+  .instruction-text{
+    float:left;    
+    color:black;
+    font-size:12px;
+    font-style:italic;
+}
+
+  .info-text{
+	float:right;    
+    color:black;
+    font-size:12px;
+    font-style:normal;
+}
+ 
+ .overlay-text-1903{
+    z-index:100;
+    position:absolute;    
+    color:black;
+    font-size:20px;
+    font-weight:bold;
+    left:20px;
+    top:20px;
+}
+
+ .overlay-text-2014{
+    z-index:100;
+    position:absolute;    
+    color:black;
+    font-size:20px;
+    font-weight:bold;
+    right:20px;
+    top:20px;
+}
+
+.image-slider {
+	position:relative;
+	display: inline-block;
+	line-height: 0;
+}
+
+/* Could use a pseudo-element, but they’re currently
+   super buggy. See: http://dabblet.com/gist/ab432c3f6a8f672cd077 */
+.image-slider > div {
+	position: absolute;
+	top: 0; bottom: 0; left: 0;
+	width: 80px;
+	max-width: 100%;
+	overflow: hidden;
+	resize: horizontal;
+}
+
+/* Cross-browser resizer styling */
+.image-slider > div:before {
+	content: '';
+	position: absolute;
+	right: 0; bottom: 0;
+	width: 13px; height: 13px;
+	padding: 5px;
+	background: linear-gradient(-45deg, white 50%, transparent 0);
+	background-clip: content-box;
+	cursor: ew-resize;
+	-webkit-filter: drop-shadow(0 0 4px black);
+	filter: drop-shadow(0 0 4px black);
+}
+
+.image-slider img {
+	user-select: none;
+	max-width: 800px;
+}

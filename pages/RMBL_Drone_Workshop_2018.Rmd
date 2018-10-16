@@ -1,0 +1,381 @@
+---
+title: "Field Research with UAVs"
+subtitle: "Rocky Mountain Biological Lab"
+author: "Ian Breckheimer"
+date: "6/17/2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Agenda (12:30 - 4:30pm, 240 min)
+
+> - Introductions and Setup (~15 min)
+> - Mini-lecture: What Can Drones Do? (~30 min)
+> - Interactive: Study Design (~30 min)
+> - Interactive: Data Collection / Flight Demo (~30 min)
+> - Mini-lecture: Photogrammetry Concepts (~10 min)
+> - Interactive: Data Processing Lab Part 1 (~20 min)
+> - Mini-lecture: Ground-control Points (~5 min)
+> - Interactive: Data Processing Lab Part 2 (~20 min)
+> - Mini-lecture: Regulations and Safety (~10 min)
+> - Interactive: Data Processing Lab Part 3 (~10 min)
+> - Mini-lecture: Data Management and Computing (~10 min)
+
+## Introductions
+
+- About me
+- About you guys
+
+## Workshop Goals
+
+<div class="centered">
+<img src="./images/arripay_murmuration.jpg" width="700px" />
+</div>
+
+## Software and Workshop Materials
+
+*Step1:* Intall Photogrammetry Software:
+[Agisoft Photoscan Professional (Trial Version)](http://www.agisoft.com/downloads/installer/)
+
+*Step 2:* Install GIS Software: 
+[QGIS (Free, Open-source)](https://qgis.org/en/site/forusers/download.html)
+
+*Step 3:* Download Flight Planning Files and Sample Imagery
+
+- [Flight Planning Files](https://drive.google.com/file/d/1qjOCgNyQwAmffQ3zDQwJ_RT7NGUzFZ6S/view?usp=sharing)
+
+- [Full Resolution Imagery (For Fast Computers)](https://drive.google.com/open?id=1PdC8oScoS9S5h1aXruN__H6WxoCkP6o0)
+
+- [Reduced Resolution Imagery (For Slower Computers)](https://drive.google.com/open?id=1P7Ysw6fhwaNGODMpiGTaP42PaOU5SVKf)
+
+*Step 4:* Follow along with the [Presentation](http://tinyplant.org/RMBL_Drone_Workshop_2018.html)
+
+# Part 1: What can drones do now?
+
+## Why drones, why now?
+
+> - Scaling from plots to landscapes
+> - Bridging the gap between field measurements and sattelite remote-sensing
+> - Seeing the invisible: Beyond visible wavelengths
+> - Counting the uncountable: Computer vision
+> - The technology is getting (relatively) cheap and robust
+
+## What can drones measure?
+
+## High-res Orthophotos
+<div class="centered">
+<img src="./images/MapIR_RGB.jpg" width="700px" />
+</div>
+
+## Plant Health / Cover
+<div class="centered">
+<img src="./images/MapIR_NDVI.jpg" width="700px" />
+</div>
+
+## Terrain / Flow Models
+<div class="centered">
+<img src="./images/Flow_accum_mitasova.jpg" width="700px" />
+</div>
+
+## Vegetation Height / Structure
+<div class="centered">
+<img src="./images/Punktwolke_point_cloud.jpg" width="700px" />
+</div>
+
+## Hyperspectral Measurements
+<div class="centered">
+<img src="./images/Asner_hyperspectral.jpg" width="700px" />
+</div>
+
+## Object Detection
+<div class="centered">
+<img src="./images/Breckheimer_flower_ID.png" width="700px" />
+</div>
+
+## What types of platforms are out there?
+- *Multicopters:* Stable, Slow, Manuverable, VTOL
+  
+<div class="centered">
+<img src="./images/multicopters.jpg" width="500px" />
+</div>
+
+- *Fixed wing:* Fast, Long-ranging
+  
+<div class="centered">
+<img src="./images/fixedwing.jpg" width="500px" />
+</div>
+
+## Pay a lot or a little
+
+#### Multicopters:
+> - Pro-sumer (<$2000, payload < 200g, 20 - 30 min flight time). 
+	    e.g. DJI Phantom 4
+	    
+> - Professional (>$4000, payload < 3kg, 30 - 45 min flight time): 
+	    e.g. DJI M600
+	
+	
+#### Fixed-wing
+> - Pro-sumer (<$2000, payload < 100g, 30 min flight time): 
+	    e.g. MapIR Magpy
+	    
+> - Professional (>$6000, payload < 1kg, 60 min flight time): 
+	    e.g. Aeromapper Talon, Firefly6 Pro
+	    
+## Passive Sensors
+> - *Stabilized RGB Cameras:* DJI Zenmuse (Built-in)
+> - *Modified RGB/NIR Cameras:* MapIR Survey 3 (80g, ~$500)
+> - *True Multispectral Cameras:* Parrot Sequoia+ (~100g, ~$3000)
+> - *Thermal Imaging:* FLIR Duo Pro R (~100g, ~$4000)
+> - *Hyperspectral Imaging:* Headwall Nano-hyperspec (~300g, ~$22000)
+	
+<div class="centered">
+<img src="./images/spectrum.jpg" width="500px" />
+</div>
+
+## Active Sensors
+> - *LiDAR* - Phoenix miniRANGER (2.5kg, ~$10,000)
+> - *L-Band Radar (Soil Moisture):* Black Swift Technologies (?,?)
+
+<div class="centered">
+<img src="./images/lidar.jpg" width="700px" />
+</div>
+
+# Part 2: Study Design 
+
+## How do you design a drone study?
+
+*Sampling the Landscape:* Three general designs
+
+<div class="centered">
+<img src="./images/sampling.png" width="750px" />
+</div>
+
+## How large an area can you survey?
+
+> *Survey Area* - f(Ground Resolution, Sensor, Flight Time)
+
+> Quadcopter DJI Phantom 4 Pro (20 Mpix RGB Camera): 
+
+> - 2 mm ground resolution, 
+	10m height: *~1 ha per flight*
+	  
+> - 3cm ground resolution, 
+	120m height: *~40 ha per flight*
+	
+> Fixed-wing Firefly6 Pro (40 Mpix RGB Camera):
+
+> - 3cm ground resolution, 
+	120m height *~200 ha per flight*
+
+## Other constraints
+
+> - Maintain Visual Line-of-sight: DJI Phantom - ~500m
+
+> - Max altitude: 400 feet (~120m) AGL
+
+## Design your own study.
+
+> Brainstorm a study design (10 min)
+
+> Then share and refine it with a team of two (10 min)
+
+## Helpful Queries:
+
+- What are the scientific questions?
+
+- What measurements are necessary?
+
+- What UAV-based sensors might you use?
+
+- What ground resolution do you need?
+
+- Survey design: Wall-to-wall? Plots? Transects?
+
+- Platform Type: Quadcopter? Fixed-wing?
+
+- What would be the overall hardware cost?
+
+# Part 3: Preparing to Fly
+
+## OK, Let's (prepare to) Fly!
+
+Goal: Build a 3D model of the Townsite.
+
+Requirements:
+
+- ~3cm ground resolution
+
+- > 66% overlap between images
+
+## Flight Planning Demo:
+
+- R Script Demo
+
+- Litchi Mission Hub Demo
+
+## Let's Fly!
+
+Meet behind the Natural History Building in 5 minutes.
+
+# Part 4: From Images to Maps and Models
+
+## Basic photogrammetry concepts
+
+Photogrammetry - Making (correct) Measurements from Photographs
+
+<div class="centered">
+<img src="./images/orthophotoscope.png" width="750px" />
+</div>
+
+## Orthorectification
+
+Undistorting photos to get a true "top-down view"
+
+<div class="centered">
+<img src="./images/orthorectification.png" width="750px" />
+</div>
+
+Orthorectified Photo = Orthophoto
+
+## Structure from Motion (SfM)
+
+Reconstructing 3D Scenes from collections of 2D Images
+
+<div class="centered">
+<img src="./images/SFM.png" width="600px" />
+</div>
+
+Under the hood:
+https://en.wikipedia.org/wiki/Scale-invariant_feature_transform
+
+##Photogrammetry Software
+
+> - Proprietary: Agisoft Photoscan, Pix4D
+
+> - Open-source: Regard3D
+
+> - Cloud-based processing: DroneDeploy
+
+> - GIS Software: QGIS, ArcGIS
+
+## Why Proprietary Software?
+
+> - Patented algorithms for components of SfM
+
+> - Good interfaces for 3D modeling are hard to build.
+
+> - Agisoft Photoscan - Fast, Stable, Easy to Use, *Relatively* Cheap
+
+## On your own
+
+Follow the preparation steps (up to Stage 1) in the [tutorial from NCSU](https://ncsu-geoforall-lab.github.io/uav-lidar-analytics-course/assignments/geoprocessing.html)
+
+Add photos from the data folder using Workflow -> Add Photos...
+
+## Agisoft Photoscan Interface Tour
+
+## On your own
+
+Follow the steps in Stage 1 of the [tutorial from NCSU](https://ncsu-geoforall-lab.github.io/uav-lidar-analytics-course/assignments/geoprocessing.html) in order to Align the Photos.
+
+## While we are waiting: Ground-control Points
+
+- Located in the field with a high-accuracy GPS.
+- Improves geometric accuracy of resulting maps.
+- At least 3, ideally 7 - 10 per flight
+
+<div class="centered">
+<img src="./images/GCP_Placement.jpg" width="600px" />
+</div>
+
+## On your own
+
+Follow the steps in Stage 2 of the [tutorial from NCSU](https://ncsu-geoforall-lab.github.io/uav-lidar-analytics-course/assignments/geoprocessing.html) in order to locate the GCPs in photos.
+
+Then follow the steps in stage three through the step 
+Menu > Workflow > Build Dense Cloud. This will take a while to process.
+
+## While we are waiting: UAV Regulatory Environments
+
+Federal Aviation Administration (FAA) considers drones to be aircraft
+
+- Flying for research: considered commercial use, requires [remote pilot certification](https://www.faa.gov/uas/getting_started/part_107/remote_pilot_cert/)
+
+### Key Regulations
+- Airspace restrictions - near Airports & Military Bases
+
+- Temporary flight restrictions - Air Force One, Fire Fighting, etc.
+
+- Line-of-sight, visibility, and wind requirements.
+	
+## Land Management Agency Requirements: 
+
+- NPS - No drones at all except in a few parks
+
+- USFS, BLM - Must get a special use permit
+
+- Designated Wilderness - No drones
+
+- State Parks - Varies by state and park.
+
+## RMBL Requirements:
+
+- 10m from roads, trails and people
+
+- Comply with FAA regulations
+
+- Minimize conflict with other researchers
+
+- Coordinate with science director Jennie Riethel
+	
+## On your own
+
+Follow the steps in Stage 3 of the [tutorial from NCSU](https://ncsu-geoforall-lab.github.io/uav-lidar-analytics-course/assignments/geoprocessing.html) in order to build the 3D Mesh and Texture.
+
+## Safety & Consideration
+
+- Programmed Flights - avoid trees by >4m, pay attention to overhead wires
+
+- Low-elevation flights (<20m) - ground-following flights using a high-res DEM
+
+- Private property - DroneHunter, Assumption of Surveillance
+
+- Be conspicuous and friendly, take time to explain the purpose of the flights
+
+## Computing Hardware and Storage
+
+- GPU vs CPU Performance
+	
+- 300 minutes of flight time / week = 120GB / Week of Imagery
+	
+- Processing in the cloud - [Paperspace](https://www.paperspace.com/core) virtual servers.
+
+## Burning questions
+
+Did we cover everything?
+
+## Extending your knowledge.
+
+Online Resources:
+[NC State UAV course](https://ncsu-geoforall-lab.github.io/uav-lidar-analytics-course/index.html)
+
+Key Papers:
+[RSEC Special Issue](https://zslpublications.onlinelibrary.wiley.com/toc/20563485/2018/4/1)
+
+
+## Image Credits
+
+[https://www.flickr.com/photos//arripay/31636555564/]
+[https://ncsu-geoforall-lab.github.io/uav-lidar-analytics-course/topics.html]
+[https://mapir.camera]
+[https://www.birdseyeview.aero/products/firefly6]
+[https://en.wikipedia.org/wiki/en:Image:Manicouagan-EO.JPG]
+[http://www.wikiwand.com/de/Punktwolke]
+[http://michot.julien.free.fr/drupal/?q=content/research]
+[https://cao.carnegiescience.edu/]
+[https://www.pobonline.com/articles/97866-bluesky-completes-historic-aerial-mapping-project]
+

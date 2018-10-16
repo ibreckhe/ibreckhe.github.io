@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</title>
+    <link>https://tinyplant.org/publication_types/2/</link>
+    <description>Recent content in 2 on TinyPlant: Ian Breckheimer&#39;s Spatial Ecology and Global Change Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 11 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://tinyplant.org/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climate drives phenological reassembly of a mountain wildflower meadow community</title>
+      <link>https://tinyplant.org/publication/rainier-pheno-reassembly/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/publication/rainier-pheno-reassembly/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>An evaluation of terrain‐based downscaling of fractional snow covered area data sets based on LiDAR‐derived snow data and orthoimagery</title>
+      <link>https://tinyplant.org/publication/snow-downscaling/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://tinyplant.org/publication/snow-downscaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for concerted movement of nuclear and mitochondrial clines in a lizard hybrid zone</title>
+      <link>https://tinyplant.org/publication/lizard-hybrid-zone/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://tinyplant.org/publication/lizard-hybrid-zone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
