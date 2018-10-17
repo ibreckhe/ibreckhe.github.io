@@ -137,6 +137,15 @@
       <description>&lt;p&gt;Species interactions, like the critical links between plants and their animal pollinators, play out over space and through time. Despite their inherently spatial nature, much of the scientific work on these links, and how environmental changes like climate change might affect them, treats the landscape as homogeneous. We are currently working on two projects that try to understand how plant flowering is distributed across landscapes. With my collaborator &lt;a href=&#34;https://sites.google.com/site/ellijtheobald/home&#34; target=&#34;_blank&#34;&gt;Elli Theobald&lt;/a&gt;, we are reconstructing the landscapes of flowering for subalpine meadows in Mt. Rainier National Park, using data from low snowpack &amp;ldquo;snow drought&amp;rdquo; years to help us understand the impacts of climate change on flowering synchrony and pollen dispersal.&lt;/p&gt;
 
 &lt;p&gt;In 2018 we started using drones to collect ultra-high resolution aerial imagery of meadows near &lt;a href=&#34;https://www.rmbl.org&#34; target=&#34;_blank&#34;&gt;Rocky Mountain Biological Laboratory&lt;/a&gt; in southwestern Colorado. We are currently training a machine learning system to automatically identify and count these flowers in imagery data. We will combine these counts with information about the nectar and pollen resources that each flower provides to reconstruct the landscape of floral resources for pollinators at the same sites where &lt;a href=&#34;https://irwinlab.weebly.com/&#34; target=&#34;_blank&#34;&gt;Becky Irwin&amp;rsquo;s lab&lt;/a&gt; at NC State University monitors populations of bumblebees and other pollinators.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an animation of what the imagery looks like:&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://tinyplant.org/img/meadow-2018-timelapse.gif&#34; /&gt;
+
+
+&lt;/figure&gt;
 </description>
     </item>
     
