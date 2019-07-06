@@ -30,7 +30,7 @@
 <div id='legend' style='display:none;'>
   <h2>Current Drone Imagery</h2>
   <nav class='legend clearfix'>
-	<p>Latest Image, June 24th, 2019</p>
+	<p>Latest Image, July 1st, 2019</p>
     <small>&#169; 2019 Ian Breckheimer <a href="https://tinyplant.org">More Information</a></small>
 </div>
 <div id='map' class='light'></div>
@@ -42,8 +42,8 @@ L.mapbox.accessToken = 'pk.eyJ1IjoiaWJyZWNraGUiLCJhIjoidVNHX1VpRSJ9.9fPQ1A3rdxyC
   map.legendControl.addLegend(document.getElementById('legend').innerHTML);
 
 L.control.layers({
-
-  'June 24th 2019': L.mapbox.styleLayer('mapbox://styles/ibreckhe/cjxdamdnz0lof1cnwaqhf577g').addTo(map),
+  'July 1st 2019': L.mapbox.styleLayer('mapbox://styles/ibreckhe/cjxrqthb36q9a1cns5un3fyhr').addTo(map),
+  'June 24th 2019': L.mapbox.styleLayer('mapbox://styles/ibreckhe/cjxdamdnz0lof1cnwaqhf577g'),
   'June 17th 2019': L.mapbox.styleLayer('mapbox://styles/ibreckhe/cjx3bm1o57abu1cp9200lqm8f'),
   'June 10th 2019': L.mapbox.styleLayer('mapbox://styles/ibreckhe/cjwvbp9kc3l811cp7kt2ncwto'),
    'June 3rd 2019': L.mapbox.styleLayer('mapbox://styles/ibreckhe/cjwj9i3zu0j3m1cp894og7f0e'),
